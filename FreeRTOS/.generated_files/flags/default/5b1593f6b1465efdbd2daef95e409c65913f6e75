@@ -1,0 +1,1 @@
+ -c -mcpu=$(MP_PROCESSOR_OPTION)        -g -omf=coff -DXPRJ_default=$(CND_CONF)  -legacy-libc  $(COMPARISON_BUILD)  -O0 -msmart-io=1 -Wall -msfr-warn=off   C:\Users\milena\Documents\2021.1\SOEmbarcado\Trabalho2\Trabalho2.X\FreeRTOS\main.c
